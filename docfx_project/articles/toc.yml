@@ -10,7 +10,7 @@
 # For North America, we have all items from here
 - name: North America
   items:
-  - name: Canada
+  - name: カナダ
     href: north_america/canada.md
   - name: Mexico
     href: north_america/mexico.md
